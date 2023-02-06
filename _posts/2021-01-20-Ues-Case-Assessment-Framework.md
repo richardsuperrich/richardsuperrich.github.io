@@ -1,5 +1,5 @@
 ---
-title:  "use case assessment"
+title:  "Use Case Assessment Framework"
 mathjax: true
 layout: post
 categories: media
