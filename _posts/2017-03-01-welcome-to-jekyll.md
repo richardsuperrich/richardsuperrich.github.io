@@ -32,5 +32,7 @@ considered to enable more value.
 > **Ease of implementation:** The ease of integration into existing business, change management, model deployment on the production env.
 
 
-## 2. An Example of AI & Analytics use case identification for teclo clients ##
+## 2. An Example of AI & Analytics use case identification for telecoms clients ##
+There are many potential use cases for telecoms. 
+![use_case_assess](https://github.com/richardsuperrich/richardsuperrich.github.io/blob/master/use_case_assess.JPG)
 
