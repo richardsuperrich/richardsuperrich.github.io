@@ -10,6 +10,7 @@ You are trying to sale your expertise to a client, how to target best use cases 
 I have a framework for you to speed up your identification process for the use case proposal.
 > Most of time, your clients don't really know what they want, you need to help them figure this out!
 
+
 ## 1. General stesps for AI & Analytics use case identification
 
 1. Interview your clients and understand their needs, particularly the needs of end-user and stakeholders.
