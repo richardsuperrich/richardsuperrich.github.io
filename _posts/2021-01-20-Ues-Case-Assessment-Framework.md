@@ -1,14 +1,14 @@
 ---
-title:  "use case assessment framework"
+title:  "use case assessment"
 mathjax: true
 layout: post
-categories: consulting
+categories: media
 ---
 
 Assume you are an expert in a specific field, let's say AI. You have ton of experience and knowledge of AI theory and practice. 
 You are trying to sale your expertise to a client, how to target best use cases and assess your proposaed use cases for your client?
 I have a framework for you to speed up your identification process for the use case proposal.
-'Most of time, your clients don't really know what they want, you need to help them figure this out!'
+> Most of time, your clients don't really know what they want, you need to help them figure this out!
 
 ## 1. General stesps for AI & Analytics use case identification
 
