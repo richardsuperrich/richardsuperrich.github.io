@@ -1,25 +1,30 @@
----
-title: "Welcome to Jekyll"
-layout: post
----
+Assume you are an expert in a specific field, let's say AI. You have ton of experience and knowledge of AI theory and practice. 
+You are trying to sale your expertise to a client, how to target best use cases and assess your proposaed use cases for your client?
+I have a framework for you to speed up your identification process for the use case proposal.
+'Most of time, your clients don't really know what they want, you need to help them figure this out!'
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## General stesps for AI & Analytics use case identification
 
+1. Interview your clients and understand their needs, particularly the needs of end-user and stakeholders.
+2. Explore relevant use cases from your inventory based on the interview.
+3. Deep dive into the filtered use cases and try to fill out a criteria table.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### Use case evalucation criteria 
+| Ease of execution         | Overall business value       | 
+|---------------------------|------------------------------|
+| Strategic importance      | Simplicity of data           | 
+| Potential Value           | Ease of analytics & modeling | 
+| Ease of consumption       | Ease of implementation       | 
 
-Jekyll also offers powerful support for code snippets:
+> Strategic importance: The use case has the potential to provide siginicant competitive advatage or can be monitize. 
+Usually, customer, sales & marketing use cases is able to provide more stratrgic impact.
+> Potential value: The use case impacting market size and penetration. customer churn, enterprice growth, etc 
+considered to enable more value.
+> Ease of consumption: The use case evaluated as to what extend it can utilized on regular business.
+> Simplicity of data: The ease to collect the required data and the complexty & quality of data.
+> Ease of analytics & modeling: The ease to develop models and perform analytics for the use case.
+> Ease of implementation: The ease of integration into existing business, change management, model deployment on the production env.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+4. Prioritize the use cases based on the evaluation crietia.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## An Example of AI & Analytics use case identification for teclecommunication clients ##
