@@ -42,6 +42,6 @@ considered to enable more value.
 
 ## 2. An Example of AI & Analytics use case prioritization for telecoms clients ##
 
-There are many potential use cases for telecoms. I have listed some use cases I have engaged and prioritized them based on the assessment criteria.
+There are many potential use cases for telecoms. I have listed some use cases I have engaged and prioritized them based on the assessment criteria!
 
 ![use_case_assess1](/assets/use_case_assess.JPG)
