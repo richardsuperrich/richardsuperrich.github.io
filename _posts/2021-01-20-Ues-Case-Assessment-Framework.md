@@ -11,6 +11,7 @@ I have a framework for you to speed up your identification process for the use c
 4. Prioritize the use cases based on the evaluation crietia.
 
 ### Use case evalucation criteria 
+
 | **Ease of execution**         | **Overall business value**       | 
 |-------------------------------|----------------------------------|
 | Strategic importance          | Simplicity of data               | 
